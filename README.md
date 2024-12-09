@@ -2,9 +2,14 @@
 
 I'm an Information and Communication Engineering graduate with a strong foundation in programming, cloud technologies, and DevOps tools. I enjoy building efficient solutions and optimizing workflows.
 
-**Skills and Technologies**:
-- Proficient in **C**, **C++**, **Java**, **Python (basic)**, **Bash**, **MySQL**, **HTML/CSS**, and **JavaScript**
-- Experienced with **Git & GitHub**, **Linux**, **AWS Cloud**, and **Docker**
+### Skills and Technologies  
+- **Programming Languages**: Proficient in **C**, **C++**, **Java**, and **Bash**; Basic knowledge of **Python**  
+- **Databases**: Skilled in **MySQL**, **Redis**, **PostgreSQL**, and **Oracle Database**  
+- **Web Development**: Experienced with **HTML**, **CSS**, and **JavaScript**  
+- **Version Control**: Proficient in **Git** and **GitHub**  
+- **Operating Systems**: Expertise in **Linux**  
+- **Cloud Platforms**: Knowledgeable in **AWS Cloud** and **Oracle Cloud**  
+- **Containerization & Web Servers**: Experienced with **Docker**, **Nginx**, and **HAProxy**  
 
 **Current Focus**:
 - 🚀 Learning **Redis** for high-performance data storage and caching
