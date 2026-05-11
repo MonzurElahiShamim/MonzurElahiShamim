@@ -81,7 +81,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Intern DevOps & Data Platform — Datafluent BD
+### 🏢 DevOps & Data Platform Engineer — Datafluent BD
 **Jan 2025 – Jun 2025**
 
 - 🐘 Administered **PostgreSQL** (roles, tuning, extensions)
